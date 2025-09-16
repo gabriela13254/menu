@@ -7,7 +7,7 @@
 
     <item
         android:id="@+id/bottom_profile"
-        android:title="Perfil"
+        android:title="Perfil2"
         android:icon="@drawable/icprofile"/>
 
 
