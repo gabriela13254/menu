@@ -54,7 +54,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:contentDescription="Adicionar"
-            android:src="@drawable/ic_add"
+            android:src="@drawable/add"
             app:layout_anchor="@id/bottomAppbar"
             app:maxImageSize="40dp" />
 
