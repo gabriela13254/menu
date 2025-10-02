@@ -74,9 +74,9 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             R.id.nav_prime -> openFragment(PrimeFragment())
             R.id.nav_fashion -> openFragment(FashionFragment())
             R.id.nav_eletronics -> openFragment(EletronicsFragment())
-            R.id.nav_Beauty -> Toast.makeText(this, "Beleza", Toast.LENGTH_SHORT).show()
-            R.id.nav_Food -> Toast.makeText(this, "Alimentos", Toast.LENGTH_SHORT).show()
-            R.id.nav_furniture -> Toast.makeText(this, "Móveis", Toast.LENGTH_SHORT).show()
+            R.id.nav_Beauty -> Toast.makeText(this, "Cuidado Pessoal", Toast.LENGTH_SHORT).show()
+            R.id.nav_Food -> Toast.makeText(this, "Supermercado", Toast.LENGTH_SHORT).show()
+            R.id.nav_furniture -> Toast.makeText(this, "Casa e Móveis", Toast.LENGTH_SHORT).show()
 
         }
 

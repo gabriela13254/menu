@@ -5,13 +5,13 @@
     android:layout_height="176dp"
     android:gravity="top"
     android:padding="16dp"
-    android:background="@color/green"
+    android:background="@color/yellow"
     android:theme="@style/ThemeOverlay.AppCompat.Dark">
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/amazon_logo"
+        android:src="@drawable/mercadolivre"
         android:layout_gravity="center"/>
 
 </LinearLayout>

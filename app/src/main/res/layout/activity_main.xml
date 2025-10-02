@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    tools:openDrawer="start"
+
     >
 
 
@@ -19,7 +19,7 @@
                 android:id="@+id/toolbar"
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
-                android:background="@color/green"
+                android:background="@color/yellow"
                 android:elevation="4dp"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
 
@@ -34,7 +34,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
-            android:background="@color/green"
+            android:background="@color/yellow"
             app:fabAlignmentMode="center"
             app:fabCradleRoundedCornerRadius="50dp"
             app:fabAnchorMode="cradle">
@@ -54,6 +54,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:contentDescription="Adicionar"
+            android:background="@color/yellow"
             android:src="@drawable/add"
             app:layout_anchor="@id/bottomAppbar"
             app:maxImageSize="40dp" />
@@ -67,8 +68,8 @@
         android:layout_gravity="start"
         android:layout_marginTop="?attr/actionBarSize"
         app:headerLayout="@layout/nav_header"
-        app:itemIconTint="@color/green"
-        app:itemTextColor="@color/green"
+        app:itemIconTint="@color/yellow"
+        app:itemTextColor="@color/yellow"
         android:fitsSystemWindows="true"
         app:menu="@menu/nav_menu"/>
 

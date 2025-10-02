@@ -8,37 +8,37 @@
         <item
             android:id="@+id/nav_prime"
             android:icon="@drawable/iccart"
-            android:title="Prime"
+            android:title="Carrinho"
             />
 
         <item
             android:id="@+id/nav_fashion"
             android:icon="@drawable/icfashion"
-            android:title="Moda"
+            android:title="Vestidos e Acessórios"
             />
 
         <item
             android:id="@+id/nav_eletronics"
             android:icon="@drawable/eletronics"
-            android:title="Eletrônicos"
+            android:title="Tecnologia"
             />
 
         <item
             android:id="@+id/nav_Food"
             android:icon="@drawable/icfood"
-            android:title="Alimentos"
+            android:title="Supermercado"
             />
 
         <item
             android:id="@+id/nav_Beauty"
             android:icon="@drawable/icbeauty"
-            android:title="Beleza"
+            android:title="Cuidado Pessoal"
             />
 
         <item
             android:id="@+id/nav_furniture"
             android:icon="@drawable/icfurniture"
-            android:title="Móveis"
+            android:title="Casa e Móveis"
             />
 
     </group>
